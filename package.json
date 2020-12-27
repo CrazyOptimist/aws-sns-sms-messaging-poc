@@ -1,10 +1,10 @@
 {
-  "name": "aws-sns-sms-with-nodejs",
+  "name": "aws-sns-sms-messaging-poc",
   "version": "1.0.0",
-  "description": "",
+  "description": "AWS SNS SMS Messaging Proof Of Concept",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app"
   },
   "author": "CrazyOptimist<crazyoptimist@mail.com>",
   "license": "MIT",
